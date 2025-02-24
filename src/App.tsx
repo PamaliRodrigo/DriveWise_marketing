@@ -273,7 +273,7 @@ function App() {
                 </li>
                 <li className="flex items-center">
                   <ChevronRight className="text-orange-500 mr-2" size={20} />
-                  Basic diagnostics
+                  Vehicle Specification Lookup
                 </li>
               </ul>
               <button className="w-full bg-gray-100 text-gray-800 py-3 rounded-full font-semibold hover:bg-gray-200 transition duration-300">
@@ -302,11 +302,15 @@ function App() {
                 </li>
                 <li className="flex items-center">
                   <ChevronRight className="text-orange-500 mr-2" size={20} />
-                  Advanced diagnostics
+                  Vehicle diagnostics
                 </li>
                 <li className="flex items-center">
                   <ChevronRight className="text-orange-500 mr-2" size={20} />
-                  Cost estimation
+                  Consumable sourcing
+                </li>
+                <li className="flex items-center">
+                  <ChevronRight className="text-orange-500 mr-2" size={20} />
+                  Special discounts
                 </li>
                 <li className="flex items-center">
                   <ChevronRight className="text-orange-500 mr-2" size={20} />
